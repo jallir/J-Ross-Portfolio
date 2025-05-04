@@ -8,19 +8,21 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid=ross006 %}
+{% include feature/jumbotron.html objectid=ross014 %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="Bio;About the About Page" %}
 
-## About the Collection
+## Bio
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/)  
+Jenna Ross is a Massachusetts based craftsperson working with a variety of mediums in both two and three dimensions. She /reluctantly?/ worked as the only, and therefore head, set designer and maker for her high school’s theatre productions for three years. However, she enjoyed working with space and scale and the utilization of both three and two dimensional elements. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Ross attended undergrad at Massachusetts College of Art and Design in Boston Mass, majoring in Fibers with no prior experience. She was drawn to the department for its compelling texture and the intimacy of the material to the body. The process of the physicality of craft making is important to her.  
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Ross went on to learn weaving and punch rug techniques which she uses to expand her love of drawing and anatomy to the fibers craft. She also employs natural dye, paper mâché, and wool felt in much of her work. Despite being drawn to three dimensions and sculptural elements, Ross is deeply entwined with her passion of line and movement from years of drawing and painting and continues to pursue these along with printmaking. She relies heavily on her sketching process to propel her work. 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Ross is currently attending The University of Iowa pursuing a masters degree in Book Arts and Library and Information Science. 
+
+
+
 
 
