@@ -18,12 +18,12 @@ home-banner-image-position: # Default is center
 # ITEM PAGE
 #
 # see _data/metadata-config.csv to define the metadata fields that will display.
-browse-buttons: true # true/false, adds previous/next arrows to item pages
+browse-buttons: true
 
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: "figurative art; textile craft; papier-mache sculpture; extremities, anatomy; still life painting; lithography; white tailed gnu; idols and images; artists book; leather carving; anatomy; form; traditional art" 
+subjects-fields: figurative art; textile craft; papier-mache sculpture; extremities, anatomy; still life painting; lithography; white tailed gnu; idols and images; artists book; leather carving; anatomy; form; traditional art
 subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
@@ -58,7 +58,7 @@ year-nav-increment: 5 # set increments when auto gen nav years
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "filename,title,descriptive title,creator,worktype,date,subject,dimensions,material,technique,description,editionsize,location,owner,identifier,format,file size,file date,fileowner,rights"
+metadata-export-fields: filename,title,descriptive title,creator,worktype,date,subject,dimensions,material,technique,description,editionsize,location,owner,identifier,format,file size,file date,fileowner,rights
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "subject,creator,format"
 
