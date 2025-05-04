@@ -2,14 +2,14 @@ field,display_name,browse_link,external_link
 title,Title,
 descriptivetitle,Descriptive Title,
 creator,Creator,
-worktype, Worktype,true
+worktype,Worktype,true
 date,Date Created,
 description,Description,
 subject,Subjects,true
-dimensions, Dimensions,
-material, Material,true
-technique, Technique,true
-editionsize, Edition Size,
+dimensions,Dimensions,
+material,Material,true
+technique,Technique,true
+editionsize,Edition Size,
 location,Location
 latitude,Latitude
 longitude,Longitude
